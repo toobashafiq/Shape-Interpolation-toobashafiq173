@@ -3,7 +3,7 @@
 This is a simple web project where you can draw two shapes and see a smooth animation between them.
 
 ---
-**Live Demo
+**Live Demo**
 https://shape-interpolation-173.vercel.app
 
 ## Features
