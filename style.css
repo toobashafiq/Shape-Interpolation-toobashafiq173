@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 20px;
+}
+
+h2 {
+  color: #00e5ff;
+}
+
+#canvas-container {
+  display: inline-block;
+  border: 3px solid #00e5ff;
+  border-radius: 12px;
+  box-shadow: 0 0 20px #00e5ff;
+}
+
+#description {
+  color: #333;
+  font-size: 14px;
+  margin-top: 10px;
+}
